@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://siyuanhahah.wang"
+baseurl = "http://siyuan.netlify.com/"
 
 # Title of your site
 title = "Siyuan.WANG"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Siyuan WANG 2018"
+copyright = "&copy; Siyuan WANG "
 
 theme = "academic"
 enableEmoji = true
